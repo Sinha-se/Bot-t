@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Production build artifacts
+dist
+build
+
+# Local environment & caches
+.env
+.env.local
+.cache
+*.log
+.DS_Store
